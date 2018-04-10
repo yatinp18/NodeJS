@@ -87,7 +87,7 @@ checkDuplicateEmail:function(email,res){
 
 
              //Authentication Key
-             const authkey='205938A5N9KBFIsK05ab8b3c6';
+             const authkey='';
 
 
              //for single number
